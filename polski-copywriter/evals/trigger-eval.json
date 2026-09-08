@@ -1,0 +1,22 @@
+[
+ {"query": "napisz kolejkę 4 maili dla marki eksperckiej po webinarze, lista mieszana", "should_trigger": true},
+ {"query": "potrzebuję 3 hooki do reklamy suplementu z cynkiem pod Andromedę", "should_trigger": true},
+ {"query": "przepisz hero marka premium żeby płynęło i sprzedawało", "should_trigger": true},
+ {"query": "vsl 2 min do programu zdrowotnego, bezosobowo", "should_trigger": true},
+ {"query": "zrob mi nagłówki na landing usługi B2B, 5 wariantów", "should_trigger": true},
+ {"query": "napisz post na insta dla marki eksperckiej o kortyzolu", "should_trigger": true},
+ {"query": "skrypt reklamy wideo 45s lead-gen na wydarzenie na żywo", "should_trigger": true},
+ {"query": "mail sprzedażowy z terminem do niedzieli, produkt 549 zł", "should_trigger": true},
+ {"query": "zrób copy do PDP zakwasu, EFSA", "should_trigger": true},
+ {"query": "sekwencja 5 maili mentoringowa dla mężczyzn, jeden akapit = jedno zdanie", "should_trigger": true},
+ {"query": "write a cold email in English for a US SaaS lead", "should_trigger": false},
+ {"query": "napisz komentarze do funkcji w cart-core.js", "should_trigger": false},
+ {"query": "zrób deck dla zarządu spółki z wynikami sierpnia", "should_trigger": false},
+ {"query": "wyczyść ten mail do księgowej z AI-owych zwrotów", "should_trigger": false},
+ {"query": "przetłumacz ten landing na angielski", "should_trigger": false},
+ {"query": "zbuduj ankietę kwalifikacyjną do Google Sheets", "should_trigger": false},
+ {"query": "odslopuj notatkę ze spotkania", "should_trigger": false},
+ {"query": "sprawdź czy ten tekst brzmi jak chatgpt", "should_trigger": false},
+ {"query": "ile wynosi ROAS kampanii sklepu za sierpień", "should_trigger": false},
+ {"query": "popraw ortografię w tym akapicie", "should_trigger": false}
+]

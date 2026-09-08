@@ -1,0 +1,22 @@
+[
+ {"query": "ten mail do Ani brzmi jak chatgpt, popraw", "should_trigger": true},
+ {"query": "odslopuj notatkę ze spotkania", "should_trigger": true},
+ {"query": "clean this up before I send it to the vendor", "should_trigger": true},
+ {"query": "sprawdź czy to brzmi jak AI", "should_trigger": true},
+ {"query": "wyczyść ten tekst z AI-owych zwrotów", "should_trigger": true},
+ {"query": "popraw ten mail zanim wyślę do klienta", "should_trigger": true},
+ {"query": "napisz odpowiedź klientowi na reklamację, tylko żeby nie brzmiało jak bot", "should_trigger": true},
+ {"query": "zrób z tego notatkę dla zespołu bez lania wody", "should_trigger": true},
+ {"query": "czy w tym raporcie widać, że pisało AI?", "should_trigger": true},
+ {"query": "przepisz ten post na linkedin żeby nie brzmiał jak każdy inny", "should_trigger": true},
+ {"query": "napisz od zera sekwencję sprzedażową dla marki eksperckiej", "should_trigger": false},
+ {"query": "popraw błędy ortograficzne w tym tekście", "should_trigger": false},
+ {"query": "skróć ten raport do 5 bulletów", "should_trigger": false},
+ {"query": "przetłumacz to na angielski", "should_trigger": false},
+ {"query": "napisz regex wykrywający myślniki", "should_trigger": false},
+ {"query": "zrób landing dla usługi B2B", "should_trigger": false},
+ {"query": "3 hooki do reklamy marka-suplement selen", "should_trigger": false},
+ {"query": "policz medianę długości zdań w tym pliku", "should_trigger": false},
+ {"query": "zrób deck dla zarządu z wynikami sierpnia", "should_trigger": false},
+ {"query": "jaki jest kurs eur dziś", "should_trigger": false}
+]

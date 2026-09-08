@@ -1,0 +1,160 @@
+{
+ "generic": {
+  "wps_median": [
+   6,
+   16
+  ],
+  "burstiness": [
+   0.45,
+   1.2
+  ],
+  "pct_ge20": [
+   0,
+   15
+  ],
+  "openers_comma_per_1k": [
+   0,
+   1
+  ],
+  "passive_per_1k": [
+   0,
+   4
+  ],
+  "tricolon_per_1k": [
+   0,
+   2
+  ]
+ },
+ "mail-sprzedazowy": {
+  "wps_median": [
+   6,
+   11
+  ],
+  "burstiness": [
+   0.5,
+   1.2
+  ],
+  "pct_le5": [
+   22,
+   60
+  ],
+  "pct_ge20": [
+   0,
+   10
+  ],
+  "pct_par_1sentence": [
+   70,
+   100
+  ],
+  "openers_comma_per_1k": [
+   0,
+   0.5
+  ],
+  "passive_per_1k": [
+   0,
+   2
+  ],
+  "tricolon_per_1k": [
+   0,
+   1
+  ]
+ },
+ "landing-plynny": {
+  "wps_median": [
+   10,
+   18
+  ],
+  "burstiness": [
+   0.4,
+   1.0
+  ],
+  "pct_par_1word": [
+   0,
+   5
+  ],
+  "pct_ge20": [
+   0,
+   20
+  ],
+  "openers_comma_per_1k": [
+   0,
+   1
+  ],
+  "passive_per_1k": [
+   0,
+   3
+  ]
+ },
+ "codzienny": {
+  "wps_median": [
+   7,
+   18
+  ],
+  "pct_ge20": [
+   0,
+   20
+  ],
+  "openers_comma_per_1k": [
+   0,
+   1
+  ],
+  "passive_per_1k": [
+   0,
+   5
+  ],
+  "tricolon_per_1k": [
+   0,
+   2
+  ],
+  "burstiness": [
+   0.35,
+   1.2
+  ],
+  "pct_par_1sentence": [
+   20,
+   100
+  ]
+ },
+ "list-sprzedazowy": {
+  "wps_median": [
+   6,
+   10
+  ],
+  "burstiness": [
+   0.55,
+   1.2
+  ],
+  "pct_le5": [
+   20,
+   60
+  ],
+  "pct_ge20": [
+   0,
+   8
+  ],
+  "pct_par_1sentence": [
+   70,
+   100
+  ],
+  "pct_questions": [
+   3,
+   9
+  ],
+  "numerals_per_1k": [
+   30,
+   120
+  ],
+  "openers_comma_per_1k": [
+   0,
+   0.5
+  ],
+  "passive_per_1k": [
+   0,
+   6
+  ],
+  "imieslow_per_1k": [
+   0,
+   6
+  ]
+ }
+}
